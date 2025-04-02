@@ -1,0 +1,5 @@
+org\example\MigrationService.class
+org\example\AzureToQMetryMigratorGUI.class
+org\example\MigrationResult.class
+org\example\MigrationService$1.class
+org\example\MigrationService$MigrationData.class
